@@ -18,8 +18,8 @@ Ce dernier vous fournit les données à intégrer, et des références pour cadr
 Les recommandations graphiques sont une base de travail pour éviter la feuille blanche, et peuvent être challengées si vous avez des suggestions d’UI ou de visuels plus appropriés.
 
 Pour cet exercice, **vous pouvez choisir parmi plusieurs jeux de données,** disponibles sur la page suivante : 
-Les données : https://la-toile-emlyon.github.io/repertoire-donnees-de-sites/static-portfolio-data.html
-Wireframe : https://la-toile-emlyon.github.io/repertoire-donnees-de-sites/assets/Wireframe%20Landing%20Page.pdf
+ -  Les données : https://la-toile-emlyon.github.io/repertoire-donnees-de-sites/static-portfolio-data.html
+  - Wireframe : https://la-toile-emlyon.github.io/repertoire-donnees-de-sites/assets/Wireframe%20Landing%20Page.pdf
 
 
 ###Structure sur papier
